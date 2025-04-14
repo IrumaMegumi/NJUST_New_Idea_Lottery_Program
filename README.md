@@ -1,0 +1,2 @@
+# NJUST_New_Idea_Lottery_Program
+抽签小程序，可以在windows上运行
